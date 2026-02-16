@@ -379,16 +379,3 @@ VAL_SIZE = 0.1
 CV_FOLDS = 5
 N_CLUSTERS = 4
 ```
-
-## 📄 License
-
-MIT License
-
-## 👥 Tác giả
-
-Customer Behavior AI Team
-
-## 📧 Liên hệ
-
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
